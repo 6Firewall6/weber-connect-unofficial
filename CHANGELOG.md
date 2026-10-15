@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Discover SmokeFire pellet grills, which advertise only a `SmokeFire XXXX`
+  local name without Weber manufacturer data.
+
 ## 3.2.2rc2 — 2026-10-07 (candidate)
 
 - Update websockets to 17.1 with real loopback TLS API compatibility coverage.
